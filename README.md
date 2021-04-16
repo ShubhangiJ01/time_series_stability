@@ -6,7 +6,6 @@
 
 - [Objective](#objective)
 - [Installation](#installation)
-- 
 ## Objective
 
 To identify the stability across time of the 24 hour price time series cluster structure, given publicly available 5mn electricity prices (price in column C)
@@ -17,10 +16,6 @@ Create and plot 6 time series corresponding to the number of components belongin
 ## Installation
 1. Clone the repository
 2. Install the required packages mentioned in requirement.txt
-
-
-Please find `output.csv` storing 3 most prevalent colors for each corresponding image url passed in `input.txt`.
-
 
 
 
