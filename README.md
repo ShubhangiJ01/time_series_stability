@@ -1,6 +1,5 @@
 # time_series_stability
 
-# three_prevalent_color
 ![](https://img.shields.io/badge/python-3.5-green.svg?style=flat)
 
 ## Table of Contents
